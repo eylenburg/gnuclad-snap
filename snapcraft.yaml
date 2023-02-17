@@ -1,0 +1,21 @@
+name: gnuclad
+base: core22
+version: '0.2.4'
+summary: Cladogram tree generator
+description: |
+  gnuclad tries to help the environment by creating trees. It's primary use will be generating cladogram trees for the GNU/Linux distro timeline and similar projects. Licensed under GNU GPL 3. This is an unofficial snap. Developer website: https://launchpad.net/gnuclad
+
+confinement: strict
+grade: stable
+
+apps:
+  gnuclad:
+    command: gnuclad
+    plugs:
+      - home
+
+
+parts:
+  gnuclad:
+    source: https://github.com/eylenburg/gnuclad-snap/raw/main/gnuclad.tar.gz
+    plugin: dump

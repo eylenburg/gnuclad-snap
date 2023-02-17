@@ -1,4 +1,8 @@
-This is a snap version of gnuclad: [https://launchpad.net/gnuclad](https://launchpad.net/gnuclad)
+This is a snap version of Gnuclad: [https://launchpad.net/gnuclad](https://launchpad.net/gnuclad)
+
+Example outputs created with Gnuclad:
+* Linux distribution timeline: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg
+* Operating system timeline: https://eylenburg.github.io/pics/Eylenburg_Operating_System_Timeline_Family_Tree.svg
 
 Licensed under GNU GPL v3
 

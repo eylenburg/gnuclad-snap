@@ -1,6 +1,6 @@
-This is a snap version of Gnuclad. 
-Original repo: [https://launchpad.net/gnuclad](https://launchpad.net/gnuclad)
-Download Snap here: [https://snapcraft.io/gnuclad](https://snapcraft.io/gnuclad)
+This is a snap version of Gnuclad. Original repo: [https://launchpad.net/gnuclad](https://launchpad.net/gnuclad)
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/gnuclad)
 
 Example outputs created with Gnuclad:
 * Linux distribution timeline: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg

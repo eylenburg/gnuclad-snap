@@ -1,4 +1,4 @@
-This is a snap version of Gnuclad. Original repo: [https://launchpad.net/gnuclad](https://launchpad.net/gnuclad)
+These are the Snap and Flatpak versions of Gnuclad. Original repo: [https://launchpad.net/gnuclad](https://launchpad.net/gnuclad)
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/gnuclad)
 

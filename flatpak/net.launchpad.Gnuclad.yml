@@ -9,7 +9,7 @@ modules:
   - name: gnuclad
     buildsystem: autotools
     post-install:
-      - install -Dm644 net.launchpad.Gnuclad.appdata.xml /app/share/metainfo/net.launchpad.Gnuclad.appdata.xml
+      - install -Dm644 net.launchpad.Gnuclad.appdata.xml /app/share/appdata/net.launchpad.Gnuclad.appdata.xml
     sources:
       - type: archive
         url: https://launchpad.net/gnuclad/trunk/0.2/+download/gnuclad-0.2.4.tar.gz

@@ -1,6 +1,12 @@
-These are the Snap and Flatpak versions of Gnuclad. Original repo: [https://launchpad.net/gnuclad](https://launchpad.net/gnuclad)
+These are the Snap and Flatpak versions of Gnuclad. Developer website: [https://launchpad.net/gnuclad](https://launchpad.net/gnuclad)
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/gnuclad)
+
+Install the Snap:
+`sudo snap install gnuclad`
+
+Run the Snap:
+`gnuclad`
 
 Example outputs created with Gnuclad:
 * Linux distribution timeline: https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg

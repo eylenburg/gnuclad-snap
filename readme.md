@@ -14,5 +14,4 @@ Example outputs created with Gnuclad:
 
 Licensed under GNU GPL v3
 
-[The documentation can be found here.](https://github.com/eylenburg/gnuclad-snap/raw/main/documentation.tar.xz)
-Extract the archive and open the index.html to read.
+[A copy of the documentation can be found here.](https://eylenburg.github.io/gnuclad/documentation/Index.html)

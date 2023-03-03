@@ -10,7 +10,7 @@ grade: stable
 
 apps:
   gnuclad:
-    command: gnuclad
+    command: usr/local/bin/gnuclad
     plugs:
       - home
 
@@ -21,4 +21,7 @@ parts:
     plugin: autotools
     override-pull: |
       craftctl default
-      patch -i gnuclad-compile-fix.patch
+      for file in ${CRAFT_PROJECT_DIR}/snap/local/patches/*
+      do
+        patch -i $file -p 1
+      done

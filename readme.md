@@ -21,8 +21,13 @@ Run the Snap:
 
 ## Flatpak package
 
+<p><a href='https://github.com/flathub/net.launchpad.Gnuclad'>
+<img width='190' alt='Download on Flathub' src='https://flathub.org/assets/badges/flathub-badge-i-en.png'/>
+</a></p>
+
+
 Install the Flatpak:
-`flatpak install https://github.com/eylenburg/gnuclad-snap/raw/main/gnuclad_0.2.4_amd64.flatpak`
+`flatpak install flathub net.launchpad.Gnuclad`
 
 Run the Flatpak:
 `flatpak run net.launchpad.Gnuclad`

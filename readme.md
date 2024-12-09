@@ -2,7 +2,7 @@ These are the Snap and Flatpak versions of Gnuclad. Developer website: [https://
 
 Example outputs created with Gnuclad:
 * [Linux distribution timeline](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
-* [Operating system timeline](https://eylenburg.github.io/pics/Eylenburg_Operating_System_Timeline_Family_Tree.svg)
+* [Operating system timeline](https://eylenburg.github.io/os_familytree.htm)
 
 Gnuclad is licensed under GNU GPL v3
 
